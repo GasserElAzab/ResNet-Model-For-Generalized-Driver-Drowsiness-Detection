@@ -248,7 +248,7 @@ parser.add_argument('-b', '--blocks',nargs='+', default=[2,2,2], help="the numbe
 parser.add_argument('-lr', '--lr',nargs='+', default=0.001, help="the number of blocks chosen")
 args = parser.parse_args()
 n_blocks_str=args.blocks
-lr = int(args.lr)
+lr = float(args.lr)
 int_map= map(int,n_blocks_str)
 n_blocks= list(int_map)
 
