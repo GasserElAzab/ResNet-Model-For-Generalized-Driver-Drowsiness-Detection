@@ -1,6 +1,6 @@
 # Generalized-Driver-Drowsiness-Detection
 
-There are two available versions for this model, a jupyter notebook for better visualization for each step, and a main file that can be easier for trying differnet architecture. 
+Full Technical details about this project can be found in the report as a reseearch paper. Technically, there are two available versions for this model, a jupyter notebook for better visualization for each step, and a main file that can be easier for trying differnet architecture. 
 
 The main files two argument:-
 
